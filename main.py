@@ -1,5 +1,8 @@
 import scmanz
 import os
+#Malu Tolol Udah Gede Masih Recode
+#Recode Izin dulu dek
+#Yang Recode Gua Doain Jadi Bodoh 
 Hijau = '\033[1;32m'
 Kuning = '\033[1;33m'
 Merah = '\033[1;31m'
